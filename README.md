@@ -3,7 +3,7 @@
 ---
   数据在sklearn.datasets.load_digits数据集上，分别用K-Means,Affinity propagation,Mean-shift,spectral clustering,Ward hierarchical clusteering ,Agglomerative clustering,DBSCAN,Gaussian mixtures算法，实现聚类效果。
   
-  ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+  ![image](https://github.com/zhaoru123/test/blob/master/132cc9072dee1ca32f1227fca8e5304.png)
   
   
 
